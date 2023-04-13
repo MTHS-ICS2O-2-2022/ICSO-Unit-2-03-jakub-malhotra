@@ -18,6 +18,6 @@ func main() {
 	fmt.Print("Enter your age: ")
 	fmt.Scanln(&age)
 	fmt.Println("Your name is", name, "and you are", age, "years old.")
-  
+
 	fmt.Println("\nDone.")
 }
